@@ -1,2 +1,2 @@
 # airkef
-air ticket booking web application using java,html5 and mysql
+air ticket booking web application using java8, jsp, servlets, html5, mysql
